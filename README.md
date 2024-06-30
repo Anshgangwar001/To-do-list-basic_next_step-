@@ -1,1 +1,1 @@
-# To-do-list-basic_next_step-
+# To-do-list-basic_next_step-Welcome to my first project on GitHub, a To-Do List application! This project marks the beginning of my developer journey and is a great opportunity for me to brush up on my programming concepts. I am excited to share this project with you and look forward to learning and growing in the world of development.
